@@ -1755,6 +1755,11 @@
         {
             var s = '';
             var node = tree[i];
+
+            if (node === undefined) {
+                continue;
+            }
+
             if (node.type == 'text')
             {
                 s = node.data;
