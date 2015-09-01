@@ -8,11 +8,12 @@ module.exports = function(grunt) {
                     report: "min",
                     banner: "/*!\n" +
                         " * jSmart Javascript template engine (v<%= pkg.version %>)\n" +
-                        " * https://github.com/umakantp/jsmart\n" +
+                        " * https://github.com/voxmachina/jsmart\n" +
                         " * http://opensource.org/licenses/LGPL-3.0\n" +
                         " *\n" +
                         " * Copyright 2011-2015, Max Miroshnikov <miroshnikov at gmail dot com>\n" +
                         " *                      Umakant Patil <me @ umakantpatil dot com>\n" +
+                        " *                      Pedro Eugenio <pedro.t.eugenio @ gmail dot com>\n" +
                         " */\n"
                 },
                 files: {

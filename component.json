@@ -3,7 +3,7 @@
     "version": "2.15.0",
     "description": "jSmart is a port of the Smarty Template Engine to Javascript.",
     "keywords": ["jsmart", "smarty", "javascript", "template", "templates"],
-    "repository": "umakantp/jsmart",
+    "repository": "voxmachina/jsmart",
     "dependencies": [],
     "main": "jsmart.js",
     "scripts": ["jsmart.js"],

@@ -4,7 +4,7 @@
     "description": "jSmart is a port of the Smarty Template Engine to Javascript.",
     "main": "jsmart.js",
     "version": "2.15.0",
-    "url": "https://github.com/umakantp/jsmart/",
+    "url": "https://github.com/voxmachina/jsmart/",
     "keywords": [
         "jsmart",
         "smarty",
@@ -17,6 +17,10 @@
         {
             "name": "Umakant Patil",
             "email": "me@umakantpatil.com"
+        },
+        {
+            "name": "Pedro Eugenio",
+            "email": "pedro.t.eugenio@gmail.com"
         }
     ],
     "licenses": [
@@ -35,14 +39,14 @@
         "grunt-contrib-uglify": "~0.5.0"
     },
     "bugs": {
-        "url": "https://github.com/umakantp/jsmart/issues"
+        "url": "https://github.com/voxmachina/jsmart/issues"
     },
     "scripts": {
         "test": "make test",
-        "doc": "https://github.com/umakantp/jsmart/wiki"
+        "doc": "https://github.com/voxmachina/jsmart/wiki"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/umakantp/jsmart.git"
+        "url": "https://github.com/voxmachina/jsmart.git"
     }
 }
